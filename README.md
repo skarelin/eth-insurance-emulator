@@ -1,2 +1,2 @@
-# solidity-first-try
-My first solidity project (Insurance company)
+# Insurance company emulator.
+https://remix.ethereum.org/
